@@ -24,9 +24,9 @@ def function2(a:int, b:int, c:int) -> int:
                                         #If "c" is the largest value.
 
 answer1 = function2(3, 2, 1)     # What is the value of answer1?
-                                                #3
+                                                #1
 answer2 = function2(2, 3, 1)     # What is the value of answer2?
-                                                #3
+                                                #4
 answer3 = function2(2, 1, 3)     # What is the value of answer3?
-                                                #3
+                                                #6
 print()
